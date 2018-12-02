@@ -4,7 +4,7 @@ This mod adds Mozart font to Font API mod (from [display_modpack](https://github
 
 For more information, see the [forum topic](https://forum.minetest.net/viewtopic.php?t=13563) at the Minetest forums.
 
-<center>![Font Mozart Preview](screenshot.png)</center>
+![Font Mozart Preview](screenshot.png)
 
 **Dependancies**: font_api
 
